@@ -1,2 +1,2 @@
-# Projects
-This contains all the projects
+# QR CODE GENERATOR
+This contains all the code for the project...
